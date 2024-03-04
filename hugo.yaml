@@ -1,0 +1,42 @@
+baseURL: https://rj45.mer.moe/
+languageCode: ja-jp
+title: RJ45
+theme: PaperMod
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: RJ45
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  homeInfoParams:
+    Title: "フラグを求めてふらふら"
+
+  socialIcons:
+    - name: ctftime
+      url: "https://ctftime.org/team/282942"
+    - name: github
+      url: "https://github.com/"
+
+
+menu:
+  main:
+    - identifier: writeup
+      name: writeup
+      url: /writeup/
+      weight: 10
