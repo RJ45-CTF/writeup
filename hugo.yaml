@@ -36,7 +36,11 @@ params:
 
 menu:
   main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 10
     - identifier: writeup
       name: writeup
       url: /writeup/
-      weight: 10
+      weight: 20
