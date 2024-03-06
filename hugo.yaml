@@ -1,6 +1,6 @@
 baseURL: https://rj45.mer.moe/
 languageCode: ja-jp
-title: RJ45
+title: RJ45JP
 theme: PaperMod
 paginate: 5
 
@@ -18,7 +18,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: RJ45
+  author: RJ45JP
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto

@@ -1,11 +1,11 @@
 ---
 title: 'osu!gaming CTF 2024 - Writeup'
 date: 2024-03-05T05:42:59+09:00
-author: "RJ45"
+author: "RJ45JP"
 weight: 10
 ---
 
-RJ45です。
+RJ45JPです。
 ctfの存在を終了5時間前に思い出しやりました。
 
 ### Score
